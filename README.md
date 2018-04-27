@@ -66,7 +66,7 @@ Algorithms
  * ✓ __x17__ (Verge [XVG])
  * ✓ __yescrypt__ (GlobalBoostY [BSTY], Unitus [UIS], MyriadCoin [MYR])
  * ✓ __zr5__ (Ziftrcoin [ZRC])
- * ✓ __geek__ (GeekCash [XVG])
+ * ✓ __geek__ (GeekCash [GEEK])
 
 #### Implemented, but untested
  * ? hefty1 (Heavycoin)
